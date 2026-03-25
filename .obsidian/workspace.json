@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sections/lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "lore"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sections/lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para README"
+              "title": "Links inversos para lore"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "sections/lore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de README"
+              "title": "Sumário de lore"
             }
           },
           {
@@ -193,15 +193,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dc033e700a9b79ac",
+  "active": "0c6e42abd23856aa",
   "lastOpenFiles": [
+    "README.md",
+    "sections/lore.md",
+    "sections/templates",
+    "sections/updates",
+    "sections/protocols",
+    "sections/lore",
+    "sections",
     "Templates",
     "Sections/Updates",
     "Sections/Protocols",
     "Sections/Lore",
-    "Sections",
-    "manifest.json",
-    "README.md",
-    "Sem título.base"
+    "Sections"
   ]
 }
