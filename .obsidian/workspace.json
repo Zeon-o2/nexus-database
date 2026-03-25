@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.50543212890625
   },
   "right": {
     "id": "69dd3a8ce4e12b41",
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,9 +193,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0c6e42abd23856aa",
+  "active": "dc033e700a9b79ac",
   "lastOpenFiles": [
-    "Sem título.base",
-    "README.md"
+    "Templates",
+    "Sections/Updates",
+    "Sections/Protocols",
+    "Sections/Lore",
+    "Sections",
+    "manifest.json",
+    "README.md",
+    "Sem título.base"
   ]
 }
