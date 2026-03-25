@@ -1,2 +1,3 @@
 # Nexus Database
-THIS IS A GIT TESTING.
+- **Version:** Alpha v0.1.0
+- Currently using in Nexus CLI.
