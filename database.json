@@ -1,6 +1,6 @@
 {
-  "database_version": "1.0.0",
-  "updated_at": "2026-03-28T17:31:57Z",
+  "database_version": "1.0.1",
+  "updated_at": "2026-03-28T17:56:58Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -15,15 +15,37 @@
   ],
   "documents": [
     {
-      "id": "01-andrew-riviera-mason",
-      "title": "Andrew Riviera Mason",
+      "id": "andrew-id",
+      "title": "Andrew Id",
       "section": "personnel",
       "tags": [],
       "format": "markdown",
       "version": "1.0.0",
-      "summary": "test",
-      "path": "/sections/personnel/01-andrew-riviera-mason.md",
-      "source_file": "sections/personnel/01-andrew-riviera-mason.md"
+      "summary": "",
+      "path": "/sections/personnel/Andrew-ID.md",
+      "source_file": "sections/personnel/Andrew-ID.md"
+    },
+    {
+      "id": "enddie-id",
+      "title": "Enddie Id",
+      "section": "personnel",
+      "tags": [],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "path": "/sections/personnel/Enddie-ID.md",
+      "source_file": "sections/personnel/Enddie-ID.md"
+    },
+    {
+      "id": "raszan-id",
+      "title": "Raszan Id",
+      "section": "personnel",
+      "tags": [],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "path": "/sections/personnel/Raszan-ID.md",
+      "source_file": "sections/personnel/Raszan-ID.md"
     }
   ]
 }
