@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/lore.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lore"
+              "title": "README"
+            }
+          },
+          {
+            "id": "8678fd906ba2421e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/personnel/01-andrew-riviera-mason.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-andrew-riviera-mason"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sections/lore.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para lore"
+              "title": "Links inversos para README"
             }
           },
           {
@@ -155,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sections/lore.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de lore"
+              "title": "Sumário de README"
             }
           },
           {
@@ -193,19 +208,20 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0c6e42abd23856aa",
+  "active": "dc033e700a9b79ac",
   "lastOpenFiles": [
     "README.md",
+    "sections/personnel/01-andrew-riviera-mason.md",
+    "sections/entities",
+    "sections/entities",
+    "sections/dialogues",
+    "sections/lore",
+    "sections/personnel",
+    "sections",
     "sections/lore.md",
+    "templates",
     "sections/templates",
     "sections/updates",
-    "sections/protocols",
-    "sections/lore",
-    "sections",
-    "Templates",
-    "Sections/Updates",
-    "Sections/Protocols",
-    "Sections/Lore",
-    "Sections"
+    "sections/protocols"
   ]
 }
