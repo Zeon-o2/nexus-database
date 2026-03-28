@@ -1,0 +1,29 @@
+{
+  "database_version": "1.0.0",
+  "updated_at": "2026-03-28T17:21:06Z",
+  "source": {
+    "repository_url": "https://github.com/Zeon-o2/nexus-database",
+    "base_url": "https://zeon-o2.github.io/nexus-database/",
+    "vault_path": "C:\\Users\\eliss\\OneDrive\\Área de Trabalho\\Nexus\\NOVA\\Nexus-Database"
+  },
+  "sections": [
+    {
+      "id": "personnel",
+      "label": "Personnel",
+      "description": ""
+    }
+  ],
+  "documents": [
+    {
+      "id": "01-andrew-riviera-mason",
+      "title": "Andrew Riviera Mason",
+      "section": "personnel",
+      "tags": [],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "test",
+      "path": "/sections/personnel/01-andrew-riviera-mason.md",
+      "source_file": "sections/personnel/01-andrew-riviera-mason.md"
+    }
+  ]
+}
