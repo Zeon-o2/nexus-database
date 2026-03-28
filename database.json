@@ -1,10 +1,10 @@
 {
-  "database_version": "1.0.1",
-  "updated_at": "2026-03-28T17:56:58Z",
+  "database_version": "1.0.2",
+  "updated_at": "2026-03-28T18:05:30Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
-    "vault_path": "C:\\Users\\eliss\\OneDrive\\Área de Trabalho\\Nexus\\NOVA\\Nexus-Database"
+    "vault_path": "c:\\Users\\eliss\\OneDrive\\Área de Trabalho\\Nexus\\NOVA\\Nexus-Database"
   },
   "sections": [
     {
@@ -18,7 +18,9 @@
       "id": "andrew-id",
       "title": "Andrew Id",
       "section": "personnel",
-      "tags": [],
+      "tags": [
+        "Andrew"
+      ],
       "format": "markdown",
       "version": "1.0.0",
       "summary": "",
