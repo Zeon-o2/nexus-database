@@ -25,14 +25,14 @@
             "id": "8678fd906ba2421e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "aFile": "database.json",
+                "bFile": "database.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "diff",
+              "title": "Diff: database.json  (Working Tree)"
             }
           }
         ],
@@ -210,8 +210,8 @@
   },
   "active": "8678fd906ba2421e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "conflict-files-obsidian-git.md",
     "sections/personnel/01-andrew-riviera-mason.md",
     "database.json",
     "sections/entities",
