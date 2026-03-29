@@ -1,6 +1,6 @@
 {
   "database_version": "1.0.1",
-  "updated_at": "2026-03-28T18:10:15Z",
+  "updated_at": "2026-03-29T14:44:41Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -8,8 +8,8 @@
   },
   "sections": [
     {
-      "id": "personnel",
-      "label": "Personnel",
+      "id": "characters",
+      "label": "Characters",
       "description": ""
     }
   ],
@@ -17,35 +17,35 @@
     {
       "id": "andrew-id",
       "title": "Andrew Id",
-      "section": "personnel",
+      "section": "characters",
       "tags": [],
       "format": "markdown",
       "version": "1.0.0",
       "summary": "---",
-      "path": "/sections/personnel/Andrew-ID.md",
-      "source_file": "sections/personnel/Andrew-ID.md"
+      "path": "/sections/characters/Andrew-ID.md",
+      "source_file": "sections/characters/Andrew-ID.md"
     },
     {
       "id": "enddie-id",
       "title": "Enddie Id",
-      "section": "personnel",
+      "section": "characters",
       "tags": [],
       "format": "markdown",
       "version": "1.0.0",
       "summary": "",
-      "path": "/sections/personnel/Enddie-ID.md",
-      "source_file": "sections/personnel/Enddie-ID.md"
+      "path": "/sections/characters/Enddie-ID.md",
+      "source_file": "sections/characters/Enddie-ID.md"
     },
     {
       "id": "raszan-id",
       "title": "Raszan Id",
-      "section": "personnel",
+      "section": "characters",
       "tags": [],
       "format": "markdown",
       "version": "1.0.0",
       "summary": "",
-      "path": "/sections/personnel/Raszan-ID.md",
-      "source_file": "sections/personnel/Raszan-ID.md"
+      "path": "/sections/characters/Raszan-ID.md",
+      "source_file": "sections/characters/Raszan-ID.md"
     }
   ]
 }
