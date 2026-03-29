@@ -1,6 +1,6 @@
 {
-  "database_version": "1.0.1",
-  "updated_at": "2026-03-29T14:44:41Z",
+  "database_version": "1.0.4",
+  "updated_at": "2026-03-29T15:01:18Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -18,10 +18,14 @@
       "id": "andrew-id",
       "title": "Andrew Id",
       "section": "characters",
-      "tags": [],
+      "tags": [
+        "Andrew",
+        "MainCharacter"
+      ],
       "format": "markdown",
-      "version": "1.0.0",
-      "summary": "---",
+      "version": "2.0.0",
+      "summary": "# 1. Information",
+      "character_count": 1608,
       "path": "/sections/characters/Andrew-ID.md",
       "source_file": "sections/characters/Andrew-ID.md"
     },
@@ -33,6 +37,7 @@
       "format": "markdown",
       "version": "1.0.0",
       "summary": "",
+      "character_count": 0,
       "path": "/sections/characters/Enddie-ID.md",
       "source_file": "sections/characters/Enddie-ID.md"
     },
@@ -44,6 +49,7 @@
       "format": "markdown",
       "version": "1.0.0",
       "summary": "",
+      "character_count": 0,
       "path": "/sections/characters/Raszan-ID.md",
       "source_file": "sections/characters/Raszan-ID.md"
     }
