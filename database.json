@@ -1,6 +1,6 @@
 {
   "database_version": "1.0.4",
-  "updated_at": "2026-03-29T15:11:50Z",
+  "updated_at": "2026-03-29T15:32:50Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -37,9 +37,9 @@
         "Enddie"
       ],
       "format": "markdown",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "summary": "# 1. Information",
-      "character_count": 769,
+      "character_count": 768,
       "path": "/sections/characters/Enddie-ID.md",
       "source_file": "sections/characters/Enddie-ID.md"
     },
@@ -47,11 +47,13 @@
       "id": "raszan-id",
       "title": "Raszan Id",
       "section": "characters",
-      "tags": [],
+      "tags": [
+        "Raszan"
+      ],
       "format": "markdown",
-      "version": "1.0.0",
-      "summary": "",
-      "character_count": 0,
+      "version": "2.0.0",
+      "summary": "# 1. Information",
+      "character_count": 1106,
       "path": "/sections/characters/Raszan-ID.md",
       "source_file": "sections/characters/Raszan-ID.md"
     }
