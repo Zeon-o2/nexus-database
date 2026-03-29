@@ -1,10 +1,10 @@
 {
   "database_version": "1.0.4",
-  "updated_at": "2026-03-29T16:21:02Z",
+  "updated_at": "2026-03-29T16:27:30Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
-    "vault_path": "C:\\Users\\eliss\\OneDrive\\Área de Trabalho\\Nexus\\NOVA\\Nexus-Database"
+    "vault_path": "c:\\Users\\eliss\\OneDrive\\Área de Trabalho\\Nexus\\NOVA\\Nexus-Database"
   },
   "sections": [
     {
@@ -13,8 +13,8 @@
       "description": ""
     },
     {
-      "id": "Main History",
-      "label": "Main History",
+      "id": "history",
+      "label": "History",
       "description": ""
     }
   ],
@@ -65,14 +65,14 @@
     {
       "id": "main-history",
       "title": "Main History",
-      "section": "Main History",
+      "section": "history",
       "tags": [],
       "format": "markdown",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "summary": "**Note:** This is the main story, which can be used for both the official book and the game. Everything is changeable. Nothing can redefine the future. Only you",
       "character_count": 2900,
-      "path": "/sections/Main History/Main History.md",
-      "source_file": "sections/Main History/Main History.md"
+      "path": "/sections/history/Main History.md",
+      "source_file": "sections/history/Main History.md"
     }
   ]
 }
