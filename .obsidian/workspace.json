@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/Main History/Main History.md",
+                "file": "sections/history/Main History.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,11 +208,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b391366ccb919f9b",
+  "active": "dc033e700a9b79ac",
   "lastOpenFiles": [
     "sections/characters/Raszan-ID.md",
-    "sections/Main History/Main History.md",
-    "sections/Main History",
+    "sections/history/Main History.md",
+    "sections/history",
     "sections/characters/Enddie-ID.md",
     "sections/characters/Andrew-ID.md",
     "README.md",
