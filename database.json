@@ -1,6 +1,6 @@
 {
   "database_version": "1.0.4",
-  "updated_at": "2026-03-29T15:32:50Z",
+  "updated_at": "2026-03-29T16:21:02Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -10,6 +10,11 @@
     {
       "id": "characters",
       "label": "Characters",
+      "description": ""
+    },
+    {
+      "id": "Main History",
+      "label": "Main History",
       "description": ""
     }
   ],
@@ -56,6 +61,18 @@
       "character_count": 1106,
       "path": "/sections/characters/Raszan-ID.md",
       "source_file": "sections/characters/Raszan-ID.md"
+    },
+    {
+      "id": "main-history",
+      "title": "Main History",
+      "section": "Main History",
+      "tags": [],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "**Note:** This is the main story, which can be used for both the official book and the game. Everything is changeable. Nothing can redefine the future. Only you",
+      "character_count": 2900,
+      "path": "/sections/Main History/Main History.md",
+      "source_file": "sections/Main History/Main History.md"
     }
   ]
 }
