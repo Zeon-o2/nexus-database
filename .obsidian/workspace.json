@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/history/Main History.md",
+                "file": "sections/history/main-history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main History"
+              "title": "main-history"
             }
           }
         ],
@@ -211,7 +211,7 @@
   "active": "dc033e700a9b79ac",
   "lastOpenFiles": [
     "sections/characters/Raszan-ID.md",
-    "sections/history/Main History.md",
+    "sections/history/main-history.md",
     "sections/history",
     "sections/characters/Enddie-ID.md",
     "sections/characters/Andrew-ID.md",
