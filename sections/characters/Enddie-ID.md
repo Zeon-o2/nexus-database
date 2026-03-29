@@ -2,7 +2,6 @@
 tags:
   - Enddie
 ---
-
 ---
 # 1. Information
 **Full name:** Enddie Fortles
