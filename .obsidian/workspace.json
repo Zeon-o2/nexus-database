@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/characters/Enddie-ID.md",
+                "file": "sections/characters/Raszan-ID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enddie-ID"
+              "title": "Raszan-ID"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "0c6e42abd23856aa",
   "lastOpenFiles": [
-    "sections/characters/Andrew-ID.md",
     "sections/characters/Enddie-ID.md",
+    "sections/characters/Andrew-ID.md",
     "sections/characters/Raszan-ID.md",
     "README.md",
     "conflict-files-obsidian-git.md",
