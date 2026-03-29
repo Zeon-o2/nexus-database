@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "sections/characters/Andrew-ID.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Andrew-ID"
             }
           }
         ]
@@ -195,17 +195,17 @@
   },
   "active": "0c6e42abd23856aa",
   "lastOpenFiles": [
-    "sections/personnel/Andrew-ID.md",
-    "sections/personnel/Raszan-ID.md",
-    "sections/personnel/Enddie-ID.md",
+    "sections/characters/Enddie-ID.md",
+    "sections/characters/Andrew-ID.md",
     "README.md",
+    "sections/characters/Raszan-ID.md",
     "conflict-files-obsidian-git.md",
     "database.json",
     "sections/entities",
     "sections/entities",
     "sections/dialogues",
     "sections/lore",
-    "sections/personnel",
+    "sections/characters",
     "sections",
     "sections/lore.md",
     "templates",
