@@ -13,30 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/characters/Raszan-ID.md",
+                "file": "sections/data/personnel/list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raszan-ID"
+              "title": "list"
             }
           },
           {
-            "id": "b391366ccb919f9b",
+            "id": "9b785eed51f60c89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sections/game/characters/Andrew-ID.md",
+                "file": "sections/data/personnel/Zeon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Andrew-ID"
+              "title": "Zeon"
+            }
+          },
+          {
+            "id": "daabbd640a8bad4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/data/personnel/Specter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Specter"
+            }
+          },
+          {
+            "id": "89445c2184f82013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/data/personnel/Lizy_eyes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lizy_eyes"
+            }
+          },
+          {
+            "id": "e21726a11c143487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/data/personnel/Luperh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Luperh"
+            }
+          },
+          {
+            "id": "81021f79f725df4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/data/personnel/BigJ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BigJ"
+            }
+          },
+          {
+            "id": "aa5c5155347b6284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sections/data/personnel/list.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "list"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -208,15 +278,24 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dc033e700a9b79ac",
+  "active": "aa5c5155347b6284",
   "lastOpenFiles": [
+    "sections/data/personnel/Captain.md",
+    "sections/data/personnel/list.md",
+    "sections/data/personnel/BigJ.md",
+    "sections/data/personnel/Luperh.md",
+    "sections/data/personnel/Lizy_eyes.md",
+    "sections/data/personnel/Specter.md",
+    "sections/data/personnel/Zeon.md",
+    "sections/data/personnel",
+    "sections/game/characters/Andrew-ID.md",
+    "sections/data",
     "sections/game",
     "sections/game/history/main-history.md",
     "README.md",
     "sections/game/characters/Raszan-ID.md",
     "sections/game/history",
     "sections/game/characters/Enddie-ID.md",
-    "sections/game/characters/Andrew-ID.md",
     "conflict-files-obsidian-git.md",
     "database.json",
     "sections/game/entities",
@@ -224,9 +303,6 @@
     "sections/game/dialogues",
     "sections/game/lore",
     "sections/game/characters",
-    "sections",
-    "sections/lore.md",
-    "templates",
-    "sections/templates"
+    "sections/lore.md"
   ]
 }

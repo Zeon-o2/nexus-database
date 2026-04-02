@@ -1,6 +1,6 @@
 {
-  "database_version": "1.0.4",
-  "updated_at": "2026-03-29T16:31:37Z",
+  "database_version": "1.0.6",
+  "updated_at": "2026-04-02T08:45:54Z",
   "source": {
     "repository_url": "https://github.com/Zeon-o2/nexus-database",
     "base_url": "https://zeon-o2.github.io/nexus-database/",
@@ -8,71 +8,173 @@
   },
   "sections": [
     {
-      "id": "characters",
-      "label": "Characters",
+      "id": "data",
+      "label": "Data",
       "description": ""
     },
     {
-      "id": "history",
-      "label": "History",
+      "id": "game",
+      "label": "Game",
       "description": ""
     }
   ],
   "documents": [
     {
+      "id": "bigj",
+      "title": "Bigj",
+      "section": "data",
+      "tags": [
+        "bigj",
+        "id005"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 37,
+      "path": "/sections/data/personnel/BigJ.md",
+      "source_file": "sections/data/personnel/BigJ.md"
+    },
+    {
+      "id": "captain",
+      "title": "Captain",
+      "section": "data",
+      "tags": [
+        "captain",
+        "id006"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 40,
+      "path": "/sections/data/personnel/Captain.md",
+      "source_file": "sections/data/personnel/Captain.md"
+    },
+    {
+      "id": "list",
+      "title": "List",
+      "section": "data",
+      "tags": [],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "1. [[Zeon]]",
+      "character_count": 84,
+      "path": "/sections/data/personnel/list.md",
+      "source_file": "sections/data/personnel/list.md"
+    },
+    {
+      "id": "lizy-eyes",
+      "title": "Lizy Eyes",
+      "section": "data",
+      "tags": [
+        "lizy_eyes",
+        "id003"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 42,
+      "path": "/sections/data/personnel/Lizy_eyes.md",
+      "source_file": "sections/data/personnel/Lizy_eyes.md"
+    },
+    {
+      "id": "luperh",
+      "title": "Luperh",
+      "section": "data",
+      "tags": [
+        "luperh",
+        "id004"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 39,
+      "path": "/sections/data/personnel/Luperh.md",
+      "source_file": "sections/data/personnel/Luperh.md"
+    },
+    {
+      "id": "specter",
+      "title": "Specter",
+      "section": "data",
+      "tags": [
+        "specter",
+        "id002"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 40,
+      "path": "/sections/data/personnel/Specter.md",
+      "source_file": "sections/data/personnel/Specter.md"
+    },
+    {
+      "id": "zeon",
+      "title": "Zeon",
+      "section": "data",
+      "tags": [
+        "zeon",
+        "id001"
+      ],
+      "format": "markdown",
+      "version": "1.0.0",
+      "summary": "",
+      "character_count": 37,
+      "path": "/sections/data/personnel/Zeon.md",
+      "source_file": "sections/data/personnel/Zeon.md"
+    },
+    {
       "id": "andrew-id",
       "title": "Andrew Id",
-      "section": "characters",
+      "section": "game",
       "tags": [
         "Andrew",
         "MainCharacter"
       ],
       "format": "markdown",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "summary": "# 1. Information",
       "character_count": 1608,
-      "path": "/sections/characters/Andrew-ID.md",
-      "source_file": "sections/characters/Andrew-ID.md"
+      "path": "/sections/game/characters/Andrew-ID.md",
+      "source_file": "sections/game/characters/Andrew-ID.md"
     },
     {
       "id": "enddie-id",
       "title": "Enddie Id",
-      "section": "characters",
+      "section": "game",
       "tags": [
         "Enddie"
       ],
       "format": "markdown",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "summary": "# 1. Information",
       "character_count": 768,
-      "path": "/sections/characters/Enddie-ID.md",
-      "source_file": "sections/characters/Enddie-ID.md"
-    },
-    {
-      "id": "raszan-id",
-      "title": "Raszan Id",
-      "section": "characters",
-      "tags": [
-        "Raszan"
-      ],
-      "format": "markdown",
-      "version": "2.0.0",
-      "summary": "# 1. Information",
-      "character_count": 1106,
-      "path": "/sections/characters/Raszan-ID.md",
-      "source_file": "sections/characters/Raszan-ID.md"
+      "path": "/sections/game/characters/Enddie-ID.md",
+      "source_file": "sections/game/characters/Enddie-ID.md"
     },
     {
       "id": "main-history",
       "title": "Main History",
-      "section": "history",
+      "section": "game",
       "tags": [],
       "format": "markdown",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "summary": "**Note:** This is the main story, which can be used for both the official book and the game. Everything is changeable. Nothing can redefine the future. Only you",
       "character_count": 2900,
-      "path": "/sections/history/main-history.md",
-      "source_file": "sections/history/main-history.md"
+      "path": "/sections/game/history/main-history.md",
+      "source_file": "sections/game/history/main-history.md"
+    },
+    {
+      "id": "raszan-id",
+      "title": "Raszan Id",
+      "section": "game",
+      "tags": [
+        "Raszan"
+      ],
+      "format": "markdown",
+      "version": "2.0.1",
+      "summary": "# 1. Information",
+      "character_count": 1106,
+      "path": "/sections/game/characters/Raszan-ID.md",
+      "source_file": "sections/game/characters/Raszan-ID.md"
     }
   ]
 }
